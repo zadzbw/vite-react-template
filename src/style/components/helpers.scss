@@ -1,0 +1,9 @@
+@layer components {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-full-center {
+    @apply flex-center h-full w-full;
+  }
+}

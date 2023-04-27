@@ -1,0 +1,25 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  @apply bg-white m-0 p-0 text-primary;
+}
+
+input {
+  @apply bg-transparent;
+
+  &:focus {
+    @apply outline-none;
+  }
+
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    @apply appearance-none;
+  }
+}
+
+img,
+svg {
+  @apply shrink-0;
+}
