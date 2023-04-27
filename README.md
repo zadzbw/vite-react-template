@@ -2,6 +2,8 @@
 
 A vite template for creating a React App with typescript, tailwind, eslint, prettier, vitest, husky and lint-staged.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/12731790/234902079-70cad825-731e-449d-b0f3-c5af03d0040e.png">
+
 ## Features 🎸
 
 - React.js
