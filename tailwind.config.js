@@ -1,18 +1,22 @@
-/** @type {import('tailwindcss').Config} */
+const colors = require('tailwindcss/colors')
 
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
-  darkMode: 'class',
+  darkMode: 'media',
   theme: {
     extend: {
       colors: {
         /** light */
-        // text start
-        primary: '#1C1F24',
-        secondary: '#656E78',
-        third: '#88929B',
+        primary: colors.neutral['900'],
+        body: colors.white,
+        'button-bg': colors.neutral['100'],
         /** dark */
-        dark: {},
+        dark: {
+          primary: colors.gray['50'],
+          body: colors.neutral['800'],
+          'button-bg': colors.neutral['900'],
+        },
       },
     },
   },
