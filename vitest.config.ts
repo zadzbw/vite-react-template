@@ -8,6 +8,9 @@ export default defineVitestConfig(() => {
     defineVitestConfig({
       test: {
         reporters: 'verbose',
+        globals: true,
+        setupFiles: './src/test/setup.ts',
+        css: true,
       },
     }),
   )
