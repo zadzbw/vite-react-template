@@ -1,4 +1,4 @@
-# vite-react-app-template ✏️
+# vite-react-template ✏️
 
 A vite template for creating a React App with typescript, tailwindcss, scss, eslint, prettier, vitest, husky and lint-staged.
 
@@ -16,7 +16,7 @@ A vite template for creating a React App with typescript, tailwindcss, scss, esl
 
 ### GitHub template
 
-[Use this template to create a new repo](https://github.com/zadzbw/vite-react-app-template/generate).
+[Use this template to create a new repo](https://github.com/zadzbw/vite-react-template/generate).
 
 ### Clone to local
 
@@ -25,7 +25,7 @@ If you prefer to do it manually with the cleaner git history, you can do the fol
 1. download the template
 
 ```bash
-npx degit zadzbw/vite-react-app-template my-app
+npx degit zadzbw/vite-react-template my-app
 ```
 
 2. push to your own repo

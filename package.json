@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zadzbw/vite-react-app-template.git"
+    "url": "git+https://github.com/zadzbw/vite-react-template.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zadzbw/vite-react-app-template/issues"
+    "url": "https://github.com/zadzbw/vite-react-template/issues"
   },
-  "homepage": "https://github.com/zadzbw/vite-react-app-template#readme",
+  "homepage": "https://github.com/zadzbw/vite-react-template#readme",
   "browserslist": [
     "defaults",
     "> 1%",
