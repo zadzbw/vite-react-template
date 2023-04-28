@@ -1,15 +1,14 @@
 # vite-react-app-template ✏️
 
-A vite template for creating a React App with typescript, tailwind, eslint, prettier, vitest, husky and lint-staged.
+A vite template for creating a React App with typescript, tailwindcss, scss, eslint, prettier, vitest, husky and lint-staged.
 
 ## Features 🎸
 
-- React.js
-- tailwind
-- eslint
-- prettier
-- vitest
-- husky + lint-staged
+- [x] React.js as basic framework
+- [x] tailwindcss + scss for style
+- [x] prettier + eslint for code style
+- [x] vitest for unit test and component test
+- [x] husky + lint-staged for pre-commit hook
 
 ## Try it now 🚀
 
