@@ -10,8 +10,7 @@ export const Counter = () => {
   return (
     <button
       className="rounded-lg border border-transparent bg-button-bg px-4 py-2 font-medium transition-[border-color] duration-200
-                 hover:border-indigo-500
-                 dark:bg-dark-button-bg"
+                 hover:border-indigo-500"
       onClick={handleClick}
     >
       count is {count}
