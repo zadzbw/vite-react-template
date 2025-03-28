@@ -37,7 +37,7 @@
     "not IE 11"
   ],
   "engines": {
-    "node": ">= 18"
+    "node": ">= 16"
   },
   "volta": {
     "node": "18.15.0"
